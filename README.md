@@ -5,7 +5,7 @@ SonarQube Assistant (Chatbot) - written in F# & JS, represented by a mascot (à 
 
 
 hdhdhdhdh
-
+fieauhgfouaeqnd
 
 
 
